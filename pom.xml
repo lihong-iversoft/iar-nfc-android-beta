@@ -4,7 +4,7 @@
     
   <groupId>com.iar</groupId>
   <artifactId>iar_nfc_beta</artifactId>
-  <version>1.7.2</version>
+  <version>1.7.4</version>
   <name>iar-nfc-beta</name>
   <url>http://maven.apache.org</url>
 </project>
